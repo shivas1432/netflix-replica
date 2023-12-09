@@ -1,0 +1,84 @@
+﻿/* Netflix responsive design */
+/* Mobile First Approach */
+
+/* Base styles for mobile */
+.movie-row {
+  margin-bottom: 20px;
+}
+
+.movie-cards-container {
+  display: flex;
+  overflow-x: scroll;
+  padding: 10px 20px;
+  gap: 10px;
+}
+
+.movie-card {
+  min-width: 150px;
+  flex-shrink: 0;
+}
+
+/* Tablet styles */
+@media (min-width: 768px) {
+  .movie-cards-container {
+    padding: 20px 40px;
+    gap: 15px;
+  }
+  
+  .movie-card {
+    min-width: 180px;
+  }
+  
+  .hero-section {
+    height: 70vh;
+  }
+}
+
+/* Desktop styles */
+@media (min-width: 1024px) {
+  .movie-cards-container {
+    padding: 20px 60px;
+    gap: 20px;
+  }
+  
+  .movie-card {
+    min-width: 200px;
+  }
+  
+  .hero-section {
+    height: 80vh;
+  }
+  
+  .netflix-nav {
+    padding: 0 60px;
+  }
+}
+
+/* Large desktop */
+@media (min-width: 1440px) {
+  .movie-card {
+    min-width: 230px;
+  }
+  
+  .movie-cards-container {
+    padding: 20px 80px;
+  }
+}
+
+/* Hide scrollbar but keep functionality */
+.movie-cards-container::-webkit-scrollbar {
+  height: 8px;
+}
+
+.movie-cards-container::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.movie-cards-container::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 4px;
+}
+
+.movie-cards-container::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.5);
+}
