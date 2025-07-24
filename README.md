@@ -46,17 +46,17 @@ The application features a complete user authentication system, dynamic content 
 
 ## ▶️ Demo
 
-**Live Demo:** [Netflix Clone by Shivashanker](https://your-netflix-clone.netlify.app)
+**Live Demo:** [Netflix Replica by Shivashanker](https://your-netflix-replica.netlify.app)
 
 ### 🎬 Video Demo
 
-https://github.com/shivas1432/netflix-clone/assets/your-user-id/demo.mp4
+https://github.com/shivas1432/netflix-replica/raw/main/public/demo.mp4
 
-*Full demo showcasing authentication, browsing, search, and user interactions*
+*Full demonstration of Netflix Replica features including authentication, browsing, search, and user interactions*
 
 ### Test Credentials (Quick Access)
 
-> **Email:** testuser@netflixclone.com<br/>
+> **Email:** testuser@netflixreplica.com<br/>
 > **Password:** TestUser2025<br/>
 
 *Or use the "Sign in with Google" option for instant access.*
@@ -145,10 +145,10 @@ https://github.com/shivas1432/netflix-clone/assets/your-user-id/demo.mp4
 
 ```bash
 # Clone the repository
-git clone https://github.com/shivas1432/netflix-clone.git
+git clone https://github.com/shivas1432/netflix-replica.git
 
 # Navigate to project directory
-cd netflix-clone
+cd netflix-replica
 
 # Install dependencies
 npm install
