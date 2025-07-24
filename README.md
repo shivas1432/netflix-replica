@@ -50,9 +50,17 @@ The application features a complete user authentication system, dynamic content 
 
 ### 🎬 Video Demo
 
-https://github.com/shivas1432/netflix-replica/raw/main/public/demo.mp4
+[🎥 Watch Full Demo](https://github.com/shivas1432/netflix-replica/raw/main/public/demo.mp4)
 
-*Full demonstration of Netflix Replica features including authentication, browsing, search, and user interactions*
+*Click above to download and watch the complete Netflix Replica demonstration*
+
+### 📸 Screenshots
+
+**Desktop Experience**
+![Netflix Replica Desktop](https://github.com/shivas1432/netflix-replica/raw/main/public/image.png)
+
+**Mobile Experience**
+![Netflix Replica Mobile](https://github.com/shivas1432/netflix-replica/raw/main/public/image1.png)
 
 ### Test Credentials (Quick Access)
 
@@ -122,20 +130,17 @@ https://github.com/shivas1432/netflix-replica/raw/main/public/demo.mp4
 
 ## 📸 Screenshots
 
-**Authentication Experience**
-![Netflix Clone Sign In](screenshots/signin.jpg)
-
 **Homepage with Dynamic Content**
-![Netflix Clone Homepage](screenshots/homepage.jpg)
+![Netflix Replica Homepage](https://github.com/shivas1432/netflix-replica/raw/main/public/image.png)
 
-**Movie Detail Modal**
-![Netflix Clone Detail Modal](screenshots/detail-modal.jpg)
+**Mobile Responsive Design**
+![Netflix Replica Mobile View](https://github.com/shivas1432/netflix-replica/raw/main/public/image1.png)
 
-**Mobile Experience**
-![Netflix Clone Mobile](screenshots/mobile-view.jpg)
+**Video Demonstration**
 
-**Search Functionality**
-![Netflix Clone Search](screenshots/search.jpg)
+[🎥 Watch Full Demo Video](https://github.com/shivas1432/netflix-replica/raw/main/public/demo.mp4)
+
+*Complete walkthrough showcasing all features and functionality*
 
 <br/>
 
