@@ -59,7 +59,6 @@ The application features a complete user authentication system, dynamic content 
 **Desktop Experience**
 ![Netflix Replica Desktop](https://github.com/shivas1432/netflix-replica/raw/main/public/image.png)
 
-**Mobile Experience**
 ![Netflix Replica Mobile](https://github.com/shivas1432/netflix-replica/raw/main/public/image1.png)
 
 ### Test Credentials (Quick Access)
